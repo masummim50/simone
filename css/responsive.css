@@ -1,0 +1,605 @@
+@media(min-width: 1200px) {
+    /*
+    .scroll_down {
+        bottom: -10vh;
+    }
+*/
+
+}
+
+@media(min-width: 992px) and (max-width: 1199px) {
+
+    .scroll_down {
+        bottom: -10vh;
+    }
+
+}
+
+@media(min-width: 768px) and (max-width: 991px) {
+
+    /*--**========== Menu part start==========**--*/
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu button i {
+        color: rgba(250, 250, 250, 0.9);
+    }
+
+    .main_menu #navbarSupportedContent {
+        background: #111;
+        text-align: left;
+        margin-top: 5px;
+
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 40px;
+        margin-left: 10px;
+        border-bottom: .5px solid rgba(67, 67, 67, 0.9);
+        width: 97%;
+    }
+
+    .menu_mar {
+        padding-top: 9px;
+    }
+
+    /*--**========== Menu part end==========**--*/
+
+    /*--**========== Banner part start==========**--*/
+
+    .scroll_down {
+        bottom: -10vh;
+    }
+
+    /*--**========== Banner part end==========**--*/
+
+    /*--**========== About part start==========**--*/
+
+    #about_part {
+        padding: 65px 0 35px;
+    }
+
+    .about_head h2 {
+        font-size: 6.5rem;
+    }
+
+    /*--**========== About part end==========**--*/
+
+    /*--**========== Service part start==========**--*/
+
+    #service_part {
+        padding: 65px 0 15px;
+    }
+
+    .service_head h2 {
+        font-size: 6.5rem;
+    }
+
+    /*--**========== Service part end==========**--*/
+
+    /*--**========== Resume part start==========**--*/
+
+    #resume_part {
+        padding: 65px 0;
+    }
+
+    .resume_head h2 {
+        font-size: 6.5rem;
+    }
+
+    .mt-md-5,
+    .my-md-5 {
+        text-align: center;
+    }
+
+    /*--**========== Resume part end==========**--*/
+
+    /*--**========== Work part start==========**--*/
+
+    #work_part {
+        padding: 65px 0;
+    }
+
+    .work_head h2 {
+        font-size: 6.5rem;
+    }
+
+    /*--**========== Work part end==========**--*/
+
+    /*--**========== Testimonial part start==========**--*/
+
+    #testimonial_part {
+        padding: 65px 0;
+    }
+
+    .testimonial_head h2 {
+        font-size: 6.5rem;
+    }
+
+    /*--**========== Testimonial part end==========**--*/
+
+    /*--**========== Contact part start==========**--*/
+
+    #contact_part {
+        padding: 65px 0 0;
+    }
+
+    .contact_head h2 {
+        font-size: 6.5rem;
+    }
+
+
+    /*--**========== Contact part end==========**--*/
+
+    /*--**========== Footer part start==========**--*/
+
+    #footer_part {
+        padding: 3.0rem 0;
+    }
+
+    .footer_left p {
+        padding-bottom: 15px;
+    }
+
+
+
+    /*--**========== Footer part end==========**--*/
+}
+
+@media(min-width: 576px) and (max-width: 767px) {
+
+
+    /*--**========== Menu part start==========**--*/
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu button i {
+        color: rgba(250, 250, 250, 0.9);
+    }
+
+    .main_menu #navbarSupportedContent {
+        background: #111;
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        margin-left: 0;
+        line-height: 40px;
+    }
+
+    .menu_mar {
+        padding-top: 9px;
+    }
+
+    /*--**========== Menu part end==========**--*/
+
+    /*--**========== Banner part start==========**--*/
+    .banner_icon {
+        top: 74%;
+        transform: none;
+    }
+
+    .scroll_down {
+        bottom: -10vh;
+    }
+
+    /*--**========== Banner part end==========**--*/
+
+    /*--**========== About part start==========**--*/
+
+    #about_part {
+        padding: 60px 0 35px;
+    }
+
+    .about_head h2 {
+        font-size: 5rem;
+    }
+
+    .about_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .about_head h3::after {
+        top: 48px;
+        left: 36%;
+    }
+
+    .counter_part {
+        border-bottom: 1px dotted #8e9a9d;
+    }
+
+
+    /*--**========== About part end==========**--*/
+
+    /*--**========== Service part start==========**--*/
+
+    #service_part {
+        padding: 60px 0 15px;
+    }
+
+    .service_head h2 {
+        font-size: 5rem;
+    }
+
+    .service_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .service_head h3::after {
+        top: 46px;
+    }
+
+    /*--**========== Service part end==========**--*/
+
+    /*--**========== Resume part start==========**--*/
+
+    #resume_part {
+        padding: 60px 0;
+    }
+
+    .resume_head h2 {
+        font-size: 5rem;
+    }
+
+    .resume_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .resume_head h3::after {
+        top: 48px;
+        left: 23%;
+    }
+
+    .mt-3,
+    .my-3 {
+        text-align: center;
+    }
+
+    /*--**========== Resume part end==========**--*/
+
+    /*--**========== Work part start==========**--*/
+
+    #work_part {
+        padding: 60px 0;
+    }
+
+    .work_head h2 {
+        font-size: 5rem;
+    }
+
+    .work_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .work_head h3::after {
+        top: 48px;
+        left: 24%;
+    }
+
+    /*--**========== Work part end==========**--*/
+
+    /*--**========== Testimonial part start==========**--*/
+
+    #testimonial_part {
+        padding: 60px 0;
+    }
+
+    .testimonial_head h2 {
+        font-size: 5rem;
+    }
+
+    .testimonial_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .testimonial_head::after {
+        top: 76px;
+        left: 43%;
+    }
+
+
+    /*--**========== Testimonial part end==========**--*/
+
+    /*--**========== Contact part start==========**--*/
+
+    #contact_part {
+        padding: 60px 0 0;
+    }
+
+    .contact_head h2 {
+        font-size: 5rem;
+    }
+
+    .contact_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .contact_head::after {
+        top: 76px;
+        left: 42%;
+    }
+
+    /*--**========== Contact part end==========**--*/
+
+    /*--**========== Footer part start==========**--*/
+    #footer_part {
+        padding: 3.125rem 0;
+    }
+
+    .footer_left p {
+        padding-bottom: 15px;
+        text-align: center;
+    }
+
+
+    /*--**========== Footer part end==========**--*/
+
+}
+
+@media(max-width: 575px) {
+
+    /*--**========== Menu part start==========**--*/
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu button i {
+        color: rgba(250, 250, 250, 0.9);
+    }
+
+    .main_menu #navbarSupportedContent {
+        background: #111;
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        margin-left: 0;
+        line-height: 40px;
+    }
+
+    .menu_mar {
+        padding-top: 9px;
+    }
+
+    /*--**========== Menu part end==========**--*/
+
+    /*--**========== Banner part start==========**--*/
+
+    .banner_main {
+        padding: 175px 0 170px;
+    }
+
+    .banner_body h1 {
+        font-size: 3rem;
+    }
+
+    .banner_icon {
+        display: none;
+    }
+
+    .banner_body p {
+        font-size: 1.113rem;
+    }
+
+    .banner_body a {
+        font-size: 1.2rem;
+        padding: 0.6rem 2rem;
+    }
+
+    .scroll_down {
+        bottom: -2vh;
+    }
+
+    /*--**========== Banner part end==========**--*/
+
+
+    /*--**========== About part start==========**--*/
+
+    #about_part {
+        padding: 35px 0 35px;
+    }
+
+    .about_head h2 {
+        font-size: 4.2rem;
+    }
+
+    .about_head h3 {
+        font-size: 1.329em;
+        left: 46%;
+    }
+
+    .about_head h3::after {
+        top: 38px;
+        left: 25%;
+    }
+
+    .about_body h4 {
+        text-align: center;
+        margin-bottom: 16px;
+    }
+
+    .about_body p {
+        padding: 0 12px 0 0;
+        text-align: justify;
+    }
+
+    .btn {
+        padding: 10px 28px;
+        margin-bottom: 40px;
+    }
+
+    .btn a {
+        font-size: .85rem;
+    }
+
+    .counter_part {
+        border-right: 0;
+    }
+
+
+    /*--**========== About part end==========**--*/
+
+
+    /*--**========== Service part start==========**--*/
+
+    #service_part {
+        padding: 50px 0 10px;
+    }
+
+    .service_head h2 {
+        font-size: 4.2rem;
+    }
+
+    .service_head h3 {
+        font-size: 26px;
+    }
+
+    .service_head h3::after {
+        top: 42px;
+        left: 26%;
+    }
+
+    /*--**========== Service part end==========**--*/
+
+
+    /*--**========== Resume part start==========**--*/
+
+    #resume_part {
+        padding: 50px 0;
+    }
+
+    .resume_head h2 {
+        font-size: 3.5rem;
+    }
+
+    .resume_head h3 {
+        font-size: 2.00rem;
+    }
+
+    .resume_head h3::after {
+        top: 45px;
+        left: 22%;
+    }
+
+    /*--**========== Resume part end==========**--*/
+
+
+    /*--**========== Work part start==========**--*/
+
+    #work_part {
+        padding: 50px 0 0;
+    }
+
+    .botton a {
+        font-size: .85rem;
+        padding: 10px 28px;
+    }
+
+    .work_head h2 {
+        font-size: 3.2rem;
+    }
+
+    .work_head h3 {
+        font-size: 2.0rem;
+    }
+
+    .work_head h3::after {
+        top: 48px;
+        left: 28%;
+    }
+
+    .nav .nav-item {
+        font-size: .95rem;
+        margin: 0 10px;
+    }
+
+    /*--**========== Work part end==========**--*/
+
+
+    /*--**========== Testimonial part start==========**--*/
+
+    #testimonial_part {
+        padding: 50px 0;
+    }
+
+    .testimonial_head h2 {
+        font-size: 2.7rem;
+    }
+
+    .testimonial_head h3 {
+        font-size: 22px;
+    }
+
+    .testimonial_head::after {
+        top: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /*--**========== Testimonial part end==========**--*/
+
+
+    /*--**========== Contact part start==========**--*/
+
+    #contact_part {
+        padding: 50px 0;
+    }
+
+    .contact_head h2 {
+        font-size: 3.7rem;
+    }
+
+    .contact_head h3 {
+        font-size: 22px;
+    }
+
+    .contact_head::after {
+        top: 56px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .address_part h3 {
+        text-align: center;
+    }
+
+    .address_part ul li {
+        text-align: center;
+    }
+
+    .address_part p {
+        text-align: center;
+    }
+
+    .contact_part .submit {
+        font-size: .85rem;
+        padding: 10px 28px;
+        margin-bottom: 0;
+    }
+
+    /*--**========== Contact part end==========**--*/
+
+
+    /*--**========== Footer part start==========**--*/
+
+    .footer_left p {
+        font-size: .93rem;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer_right .nav .nav-item .nav-link {
+        font-size: .93rem;
+    }
+
+    /*--**========== Footer part end==========**--*/
+
+
+
+}
